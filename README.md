@@ -6,6 +6,13 @@
 - **Transações**: Listar, cadastrar, deletar e filtrar transações.
 - **Categorias**: Listar, cadastrar e deletar categorias.
 
+## Dependências
+Este projeto usa as seguintes dependências:
+
+- Laravel: Framework PHP utilizado para desenvolvimento da aplicação.
+- Composer: Gerenciador de dependências PHP.
+- PostgreSQL: Banco de dados utilizado para armazenar as informações.
+
 ## Documentação
 
   ### **Migrations**
